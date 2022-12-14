@@ -1,10 +1,11 @@
 ### Hi there 👋
+🌱 I'm currently improving my knowledge of the  MERN Stack (NodeJS, ExpressJS, MongoDB, React).
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5L57f5fI3f2716NaJ3/giphy.gif" width="100"/>
+  <img src="https://www.pngmagic.com/product_images/Download-Best-free-Blue-background-images.jpg" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jhonnycalvo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
