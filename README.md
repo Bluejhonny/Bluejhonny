@@ -8,22 +8,14 @@ I'm Jhonny! I'm a trainee developer.
 🌟 I am looking for a job as a back end developer in the mern or pern stack.
 
 
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jhonnycalvo/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- 
-</div>
-
 <p id="badges" align="center">
   <a href="https://www.linkedin.com/in/jhonnycalvo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a> &nbsp;
-  <a href="https://discord.com/users/1050809775581040723">
+<!--   <a href="https://discord.com/users/1050809775581040723">
     Bluejhonny777#7873
     <img src="https://skillicons.dev/icons?i=discord" />
-  </a> &nbsp;
+  </a> &nbsp; -->
   <a href="mailto:calvorondon@gmail.com"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="migueljbriceno@gmail.com" height="45" /> 
    </a>
