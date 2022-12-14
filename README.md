@@ -21,11 +21,6 @@ I'm Jhonny! I'm a trainee developer.
    </a>
 </p>
 
-
-<div id="header" align="center">
-  <img src="https://www.pngmagic.com/product_images/Download-Best-free-Blue-background-images.jpg" width="100"/>
-</div>
-
 <!--
 **Bluejhonny/Bluejhonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
