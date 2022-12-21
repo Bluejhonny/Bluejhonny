@@ -5,7 +5,7 @@ I'm Jhonny! I'm a trainee developer.
 
 👍 I’m looking to collaborate with teams with large or small projects where I can apply my knowledge and expertise 
 
-🌟 I am looking for a job as a back end developer in the mern or pern stack.
+🌟 I am looking for a job as a full stack or back end developer in the mern, pern stack or another stack to grow professionally
 
 
 <p id="badges" align="center">
