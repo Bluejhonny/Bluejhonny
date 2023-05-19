@@ -1,11 +1,9 @@
 ### Hi there 👋
-I'm Jhonny! I'm a trainee developer.
+I'm Jhonny! I'm a developer.
 
 🌋 I'm currently improving my knowledge of the  MERN Stack (NodeJS, ExpressJS, MongoDB, React). I also have knowledge in data analysis with python (Numpy, Pandas, GeoPandas and Keras) and in C++.
 
-👍 I’m looking to collaborate with teams with large or small projects where I can apply my knowledge and expertise 
-
-🌟 I am looking for a job as a full stack or back end developer in the mern, pern stack or another stack to grow professionally
+👍 I’m looking to collaborate with teams with large or small projects where I can apply my knowledge and expertise.
 
 
 <p id="badges" align="center">
